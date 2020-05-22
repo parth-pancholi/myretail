@@ -1,0 +1,16 @@
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/entity/CurrentPrice.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/exception/MyRetailException.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/vo/response/ProductResponse.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/config/SwaggerConfig.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/config/RestTemplateConfig.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/config/MongoConfig.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/remoteHttp/ConnectHttpClient.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/service/DataLoaderService.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/vo/response/CurrentPriceVO.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/vo/response/ProductVO.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/repository/ProductRepository.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/entity/Product.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/MyRetailApplication.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/service/ProductService.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/controller/ProductController.java
+/Users/asessofia/myretail/src/main/java/com/codetest/app/myRetail/helper/ProductHelper.java
